@@ -1,0 +1,14 @@
+C:\EstudoC#\TesteDeCommit\bin\Debug\net7.0\TesteDeCommit.exe
+C:\EstudoC#\TesteDeCommit\bin\Debug\net7.0\TesteDeCommit.deps.json
+C:\EstudoC#\TesteDeCommit\bin\Debug\net7.0\TesteDeCommit.runtimeconfig.json
+C:\EstudoC#\TesteDeCommit\bin\Debug\net7.0\TesteDeCommit.dll
+C:\EstudoC#\TesteDeCommit\bin\Debug\net7.0\TesteDeCommit.pdb
+C:\EstudoC#\TesteDeCommit\obj\Debug\net7.0\TesteDeCommit.GeneratedMSBuildEditorConfig.editorconfig
+C:\EstudoC#\TesteDeCommit\obj\Debug\net7.0\TesteDeCommit.AssemblyInfoInputs.cache
+C:\EstudoC#\TesteDeCommit\obj\Debug\net7.0\TesteDeCommit.AssemblyInfo.cs
+C:\EstudoC#\TesteDeCommit\obj\Debug\net7.0\TesteDeCommit.csproj.CoreCompileInputs.cache
+C:\EstudoC#\TesteDeCommit\obj\Debug\net7.0\TesteDeCommit.dll
+C:\EstudoC#\TesteDeCommit\obj\Debug\net7.0\refint\TesteDeCommit.dll
+C:\EstudoC#\TesteDeCommit\obj\Debug\net7.0\TesteDeCommit.pdb
+C:\EstudoC#\TesteDeCommit\obj\Debug\net7.0\TesteDeCommit.genruntimeconfig.cache
+C:\EstudoC#\TesteDeCommit\obj\Debug\net7.0\ref\TesteDeCommit.dll
