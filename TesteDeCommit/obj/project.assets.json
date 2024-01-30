@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\GabrielSB\\.nuget\\packages\\": {}
+    "C:\\Users\\gabri\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\EstudoC#\\TesteDeCommit\\TesteDeCommit.csproj",
+      "projectUniqueName": "C:\\EstudoCS\\TesteDeCommit\\TesteDeCommit.csproj",
       "projectName": "TesteDeCommit",
-      "projectPath": "C:\\EstudoC#\\TesteDeCommit\\TesteDeCommit.csproj",
-      "packagesPath": "C:\\Users\\GabrielSB\\.nuget\\packages\\",
-      "outputPath": "C:\\EstudoC#\\TesteDeCommit\\obj\\",
+      "projectPath": "C:\\EstudoCS\\TesteDeCommit\\TesteDeCommit.csproj",
+      "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
+      "outputPath": "C:\\EstudoCS\\TesteDeCommit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\GabrielSB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

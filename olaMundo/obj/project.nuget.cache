@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6nPdwML4tiigY5HoUaMYyUzFW1zuho/0RGCIK9SZHUaDyxVi1t/SoZxHyhl4zm8lYHQzpolA6uW0v+dLtcJIQw==",
+  "dgSpecHash": "vwO1iQnhlGIfyQQDBE6wyggPR9kmMH6X0UaU0DN8TNTi7HcstoEY3BlxZMah25CvwwYf/NBzRA23ToxvwyQKOw==",
   "success": true,
-  "projectFilePath": "C:\\EstudoC#\\olaMundo\\olaMundo.csproj",
+  "projectFilePath": "C:\\EstudoCS\\olaMundo\\olaMundo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

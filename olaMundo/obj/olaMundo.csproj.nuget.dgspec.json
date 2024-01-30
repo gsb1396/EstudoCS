@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\EstudoC#\\olaMundo\\olaMundo.csproj": {}
+    "C:\\EstudoCS\\olaMundo\\olaMundo.csproj": {}
   },
   "projects": {
-    "C:\\EstudoC#\\olaMundo\\olaMundo.csproj": {
+    "C:\\EstudoCS\\olaMundo\\olaMundo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\EstudoC#\\olaMundo\\olaMundo.csproj",
+        "projectUniqueName": "C:\\EstudoCS\\olaMundo\\olaMundo.csproj",
         "projectName": "olaMundo",
-        "projectPath": "C:\\EstudoC#\\olaMundo\\olaMundo.csproj",
-        "packagesPath": "C:\\Users\\GabrielSB\\.nuget\\packages\\",
-        "outputPath": "C:\\EstudoC#\\olaMundo\\obj\\",
+        "projectPath": "C:\\EstudoCS\\olaMundo\\olaMundo.csproj",
+        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
+        "outputPath": "C:\\EstudoCS\\olaMundo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\GabrielSB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

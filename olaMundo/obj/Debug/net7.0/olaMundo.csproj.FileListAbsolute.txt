@@ -12,3 +12,17 @@ C:\EstudoC#\olaMundo\obj\Debug\net7.0\refint\olaMundo.dll
 C:\EstudoC#\olaMundo\obj\Debug\net7.0\olaMundo.pdb
 C:\EstudoC#\olaMundo\obj\Debug\net7.0\olaMundo.genruntimeconfig.cache
 C:\EstudoC#\olaMundo\obj\Debug\net7.0\ref\olaMundo.dll
+C:\EstudoCS\olaMundo\bin\Debug\net7.0\olaMundo.exe
+C:\EstudoCS\olaMundo\bin\Debug\net7.0\olaMundo.deps.json
+C:\EstudoCS\olaMundo\bin\Debug\net7.0\olaMundo.runtimeconfig.json
+C:\EstudoCS\olaMundo\bin\Debug\net7.0\olaMundo.dll
+C:\EstudoCS\olaMundo\bin\Debug\net7.0\olaMundo.pdb
+C:\EstudoCS\olaMundo\obj\Debug\net7.0\olaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\EstudoCS\olaMundo\obj\Debug\net7.0\olaMundo.AssemblyInfoInputs.cache
+C:\EstudoCS\olaMundo\obj\Debug\net7.0\olaMundo.AssemblyInfo.cs
+C:\EstudoCS\olaMundo\obj\Debug\net7.0\olaMundo.csproj.CoreCompileInputs.cache
+C:\EstudoCS\olaMundo\obj\Debug\net7.0\olaMundo.dll
+C:\EstudoCS\olaMundo\obj\Debug\net7.0\refint\olaMundo.dll
+C:\EstudoCS\olaMundo\obj\Debug\net7.0\olaMundo.pdb
+C:\EstudoCS\olaMundo\obj\Debug\net7.0\olaMundo.genruntimeconfig.cache
+C:\EstudoCS\olaMundo\obj\Debug\net7.0\ref\olaMundo.dll
