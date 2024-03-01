@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "olaMundo", "olaMundo\olaMun
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteDeCommit", "TesteDeCommit\TesteDeCommit.csproj", "{C36D0F6C-2CA4-4276-819A-8140E30E230B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CursoGuanabara", "CursoGuanabara", "{E43297EB-F4B5-4446-9A3E-B52EE9C44E66}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "helloWorld", "helloWorld", "{2333A87B-7C63-4285-9719-79C9BCB652F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helloWorld", "CursoGuanabara\helloWorld\helloWorld\helloWorld.csproj", "{0D08A13C-D29A-4870-83A0-E963E4A4EFDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +30,13 @@ Global
 		{C36D0F6C-2CA4-4276-819A-8140E30E230B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C36D0F6C-2CA4-4276-819A-8140E30E230B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C36D0F6C-2CA4-4276-819A-8140E30E230B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D08A13C-D29A-4870-83A0-E963E4A4EFDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D08A13C-D29A-4870-83A0-E963E4A4EFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D08A13C-D29A-4870-83A0-E963E4A4EFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D08A13C-D29A-4870-83A0-E963E4A4EFDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2333A87B-7C63-4285-9719-79C9BCB652F3} = {E43297EB-F4B5-4446-9A3E-B52EE9C44E66}
+		{0D08A13C-D29A-4870-83A0-E963E4A4EFDD} = {2333A87B-7C63-4285-9719-79C9BCB652F3}
 	EndGlobalSection
 EndGlobal

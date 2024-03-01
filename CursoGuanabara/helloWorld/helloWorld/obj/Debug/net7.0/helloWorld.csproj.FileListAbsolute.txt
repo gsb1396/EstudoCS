@@ -1,0 +1,14 @@
+c:\EstudoC#\CursoGuanabara\helloWorld\helloWorld\bin\Debug\net7.0\helloWorld.exe
+c:\EstudoC#\CursoGuanabara\helloWorld\helloWorld\bin\Debug\net7.0\helloWorld.deps.json
+c:\EstudoC#\CursoGuanabara\helloWorld\helloWorld\bin\Debug\net7.0\helloWorld.runtimeconfig.json
+c:\EstudoC#\CursoGuanabara\helloWorld\helloWorld\bin\Debug\net7.0\helloWorld.dll
+c:\EstudoC#\CursoGuanabara\helloWorld\helloWorld\bin\Debug\net7.0\helloWorld.pdb
+c:\EstudoC#\CursoGuanabara\helloWorld\helloWorld\obj\Debug\net7.0\helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+c:\EstudoC#\CursoGuanabara\helloWorld\helloWorld\obj\Debug\net7.0\helloWorld.AssemblyInfoInputs.cache
+c:\EstudoC#\CursoGuanabara\helloWorld\helloWorld\obj\Debug\net7.0\helloWorld.AssemblyInfo.cs
+c:\EstudoC#\CursoGuanabara\helloWorld\helloWorld\obj\Debug\net7.0\helloWorld.csproj.CoreCompileInputs.cache
+c:\EstudoC#\CursoGuanabara\helloWorld\helloWorld\obj\Debug\net7.0\helloWorld.dll
+c:\EstudoC#\CursoGuanabara\helloWorld\helloWorld\obj\Debug\net7.0\refint\helloWorld.dll
+c:\EstudoC#\CursoGuanabara\helloWorld\helloWorld\obj\Debug\net7.0\helloWorld.pdb
+c:\EstudoC#\CursoGuanabara\helloWorld\helloWorld\obj\Debug\net7.0\helloWorld.genruntimeconfig.cache
+c:\EstudoC#\CursoGuanabara\helloWorld\helloWorld\obj\Debug\net7.0\ref\helloWorld.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lY723rWHA6keE06Gw0bK8Fh5gVBJG6GWWB+dou/9AOccbE2thXH9/ScKTxiu2W+UqMKLazqHA9Xhme6aovFLZQ==",
+  "dgSpecHash": "2ZvK+NmVTFPYvNbs3g2oL/Qry3XfvG0KWcPOTLrwM1cnztuTIxy0Tp05PNC31Mqfva0+qeWLAcNLife+0LmA3g==",
   "success": true,
-  "projectFilePath": "C:\\EstudoCS\\TesteDeCommit\\TesteDeCommit.csproj",
+  "projectFilePath": "C:\\EstudoC#\\TesteDeCommit\\TesteDeCommit.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

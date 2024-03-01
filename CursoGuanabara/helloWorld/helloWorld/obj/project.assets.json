@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\EstudoC#\\olaMundo\\olaMundo.csproj",
-      "projectName": "olaMundo",
-      "projectPath": "C:\\EstudoC#\\olaMundo\\olaMundo.csproj",
+      "projectUniqueName": "C:\\EstudoC#\\CursoGuanabara\\helloWorld\\helloWorld\\helloWorld.csproj",
+      "projectName": "helloWorld",
+      "projectPath": "C:\\EstudoC#\\CursoGuanabara\\helloWorld\\helloWorld\\helloWorld.csproj",
       "packagesPath": "C:\\Users\\GabrielSB\\.nuget\\packages\\",
-      "outputPath": "C:\\EstudoC#\\olaMundo\\obj\\",
+      "outputPath": "C:\\EstudoC#\\CursoGuanabara\\helloWorld\\helloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
