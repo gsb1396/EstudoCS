@@ -13,6 +13,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "helloWorld", "helloWorld", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helloWorld", "CursoGuanabara\helloWorld\helloWorld\helloWorld.csproj", "{0D08A13C-D29A-4870-83A0-E963E4A4EFDD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PrimeiroPrograma", "PrimeiroPrograma", "{92BBB4DB-7CD7-40AB-A2C0-FEBADB20A0BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeiroPrograma", "CursoGuanabara\PrimeiroPrograma\PrimeiroPrograma\PrimeiroPrograma.csproj", "{B86EAA63-051C-4924-B7D6-392E8A798BBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -34,9 +38,15 @@ Global
 		{0D08A13C-D29A-4870-83A0-E963E4A4EFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D08A13C-D29A-4870-83A0-E963E4A4EFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D08A13C-D29A-4870-83A0-E963E4A4EFDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B86EAA63-051C-4924-B7D6-392E8A798BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86EAA63-051C-4924-B7D6-392E8A798BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86EAA63-051C-4924-B7D6-392E8A798BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86EAA63-051C-4924-B7D6-392E8A798BBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{2333A87B-7C63-4285-9719-79C9BCB652F3} = {E43297EB-F4B5-4446-9A3E-B52EE9C44E66}
 		{0D08A13C-D29A-4870-83A0-E963E4A4EFDD} = {2333A87B-7C63-4285-9719-79C9BCB652F3}
+		{92BBB4DB-7CD7-40AB-A2C0-FEBADB20A0BF} = {E43297EB-F4B5-4446-9A3E-B52EE9C44E66}
+		{B86EAA63-051C-4924-B7D6-392E8A798BBA} = {92BBB4DB-7CD7-40AB-A2C0-FEBADB20A0BF}
 	EndGlobalSection
 EndGlobal

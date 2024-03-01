@@ -1,0 +1,14 @@
+C:\EstudoC#\CursoGuanabara\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net7.0\PrimeiroPrograma.exe
+C:\EstudoC#\CursoGuanabara\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net7.0\PrimeiroPrograma.deps.json
+C:\EstudoC#\CursoGuanabara\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net7.0\PrimeiroPrograma.runtimeconfig.json
+C:\EstudoC#\CursoGuanabara\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net7.0\PrimeiroPrograma.dll
+C:\EstudoC#\CursoGuanabara\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net7.0\PrimeiroPrograma.pdb
+C:\EstudoC#\CursoGuanabara\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net7.0\PrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\EstudoC#\CursoGuanabara\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net7.0\PrimeiroPrograma.AssemblyInfoInputs.cache
+C:\EstudoC#\CursoGuanabara\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net7.0\PrimeiroPrograma.AssemblyInfo.cs
+C:\EstudoC#\CursoGuanabara\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net7.0\PrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\EstudoC#\CursoGuanabara\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net7.0\PrimeiroPrograma.dll
+C:\EstudoC#\CursoGuanabara\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net7.0\refint\PrimeiroPrograma.dll
+C:\EstudoC#\CursoGuanabara\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net7.0\PrimeiroPrograma.pdb
+C:\EstudoC#\CursoGuanabara\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net7.0\PrimeiroPrograma.genruntimeconfig.cache
+C:\EstudoC#\CursoGuanabara\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net7.0\ref\PrimeiroPrograma.dll
